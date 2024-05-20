@@ -1,6 +1,4 @@
-# bits_quicktask
-
-A new Flutter project.
+A Flutter Application.
 
 ## Getting Started
 
